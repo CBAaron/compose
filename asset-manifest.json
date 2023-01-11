@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aaron-pollock/composer/static/css/main.a846a329.css",
+    "main.js": "/aaron-pollock/composer/static/js/main.153d3bc2.js",
+    "index.html": "/aaron-pollock/composer/index.html",
+    "main.a846a329.css.map": "/aaron-pollock/composer/static/css/main.a846a329.css.map",
+    "main.153d3bc2.js.map": "/aaron-pollock/composer/static/js/main.153d3bc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a846a329.css",
+    "static/js/main.153d3bc2.js"
+  ]
+}
